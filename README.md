@@ -8,7 +8,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<img src="https://cdna.artstation.com/p/assets/images/images/005/440/802/original/collateral-damage-studios-hero0.gif?1491020645" width= "450px" align="right" alt=""/>
+<img src="https://cdna.artstation.com/p/assets/images/images/005/440/802/original/collateral-damage-studios-hero0.gif?1491020645" width= "400px" align="right" alt=""/>
 
 <p align="left">I am an Automation Test Engineer specializing in the banking and payments domain, with extensive experience working with industry leaders like CITY and Western Union. I focus on creating robust, scalable, and efficient test automation solutions to ensure software reliability and high-quality performance. 🚀</p>
 <img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" width="200px" align="left" alt=""/>
