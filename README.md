@@ -16,10 +16,10 @@
 <p align="left">I am an Automation Test Engineer specializing in the banking and payments domain, with extensive experience working with industry leaders like CITY and Western Union. I focus on creating robust, scalable, and efficient test automation solutions to ensure software reliability and high-quality performance. 🚀<br><br>
 
  <img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" width="150px" align="left" alt=""/>
- <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTTe7-BftCKF5U8oWLHQRg.jpeg" width="200px" align="center" alt=""/>
- <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7NClpQrO6iEc4y3gKTRIFEB3LDKN2J_mKQ&s" width="200px" align="center" alt=""/>
- <img src= "https://www.evozon.com/wp-content/uploads/2016/10/Selenium.png" width="200px" align="right" alt=""/>
- <img src= "https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" align="right" width="200" alt=""/>
+ <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTTe7-BftCKF5U8oWLHQRg.jpeg" width="150px" align="center" alt=""/>
+ <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7NClpQrO6iEc4y3gKTRIFEB3LDKN2J_mKQ&s" width="150px" align="center" alt=""/>
+ <img src= "https://www.evozon.com/wp-content/uploads/2016/10/Selenium.png" width="150px" align="right" alt=""/>
+ <img src= "https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" align="right" width="150" alt=""/>
 
 
   
