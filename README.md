@@ -13,8 +13,6 @@
 <p align="left">I am an Automation Test Engineer specializing in the banking and payments domain, with extensive experience working with industry leaders like CITY and Western Union. I focus on creating robust, scalable, and efficient test automation solutions to ensure software reliability and high-quality performance. 🚀</p>
 <img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" width="200px" align="left" alt=""/>
 <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7NClpQrO6iEc4y3gKTRIFEB3LDKN2J_mKQ&s" width="250px" align="left" alt=""/>
-<p>&nbsp;</p>
-<img src= "https://www.evozon.com/wp-content/uploads/2016/10/Selenium.png" width="150px" align="left" alt=""/>
 
 <p>&nbsp;</p>
 <h3 align="left">🛠️ Skills & Technologies</h3>
