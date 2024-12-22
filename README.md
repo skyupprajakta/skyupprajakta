@@ -7,40 +7,63 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=skyupprajakta.skyupprajakta&"  />
+</div>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
-<img src="https://cdna.artstation.com/p/assets/images/images/005/440/802/original/collateral-damage-studios-hero0.gif?1491020645" width= "350px" align="right" alt=""/>
+
+###
+
+<div align="right">
+  <img height="300" src="https://cdna.artstation.com/p/assets/images/images/005/440/802/original/collateral-damage-studios-hero0.gif?1491020645" width= "380px" align="right" alt=""/> 
+</div>
+
+###
 
 <p align="left">I am an Automation Test Engineer specializing in the banking and payments domain, with extensive experience working with industry leaders like CITY and Western Union. I focus on creating robust, scalable, and efficient test automation solutions to ensure software reliability and high-quality performance. 🚀</p>
-<img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" width="200px" align="left" alt=""/>
-<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7NClpQrO6iEc4y3gKTRIFEB3LDKN2J_mKQ&s" width="250px" align="left" alt=""/>
 
-<p>&nbsp;</p>
+###
+
 <h3 align="left">🛠️ Skills & Technologies</h3>
 
 ###
 
-<p align="left">Selenium: Automating web interactions and browser testing. 🌐<br>Java: Writing robust and scalable test scripts. ☕<br>Postman: API testing and validation. 🔧<br>Jira: Issue tracking and project management in Agile environments. 📋<br>TestNG: Organizing and executing tests with powerful configurations. ⚙️<br>Jenkins: Automating CI/CD pipelines for seamless integration. 🔄<br>Karate: API and BDD-driven testing. 🥋<br>SQL: Validating databases with complex queries. 🗄️<br>GitHub: Version control and collaboration on test scripts. 🔒<br>
- <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTTe7-BftCKF5U8oWLHQRg.jpeg" width="200px" align="left" alt=""/>
- 
- 🏦 Banking & Payments Experience:<br>I have hands-on experience in automating and testing critical systems in the banking and payments sector. I have worked with renowned organizations such as CITY and Western Union, automating workflows and ensuring seamless transactions. 💳</p>
+<div align="left">
+  <img height="200" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"  />
+  <img height="180" src="https://www.evozon.com/wp-content/uploads/2016/10/Selenium.png"  />
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7NClpQrO6iEc4y3gKTRIFEB3LDKN2J_mKQ&s"  />
+  <img height="200" src= "https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" />
+</div>
+
+
+<p align="left">Selenium: Automating web interactions and browser testing. 🌐<br>Java: Writing robust and scalable test scripts. ☕<br>Postman: API testing and validation. 🔧<br>Jira: Issue tracking and project management in Agile environments. 📋<br>TestNG: Organizing and executing tests with powerful configurations. ⚙️<br>Jenkins: Automating CI/CD pipelines for seamless integration. 🔄<br>Karate: API and BDD-driven testing. 🥋<br>SQL: Validating databases with complex queries. 🗄️<br>GitHub: Version control and collaboration on test scripts. 🔒<br>🏦 Banking & Payments Experience:<br>I have hands-on experience in automating and testing critical systems in the banking and payments sector. I have worked with renowned organizations such as CITY and Western Union, automating workflows and ensuring seamless transactions. 💳</p>
 
 ###
 
 <h3 align="left">🧑‍💻 What I Do?</h3>
 
-<img src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif" width="400px" align="left"  alt=""/>
-
 ###
 
 <p align="left">🛠️ Build Automation Frameworks: I develop high-quality test automation solutions using a variety of tools and technologies.<br>🏅 End-to-End Testing: Testing workflows, from order submissions to payment processing.<br>🔍 Continuous Improvement: Striving for efficient solutions and flawless software quality through automation.<br>🧑‍🤝‍🧑 Team Collaboration: Working seamlessly with development teams for smooth integration and testing processes.</p>
 
+###
 
+<div align="left">
+  <img height="200" src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif"  />
+</div>
 
+###
+
+<div align="right">
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*ut9XRnJGJB8glIHDsB8Tzw.gif"  />
+</div>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
 
 ###
 
@@ -62,12 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=skyupprajakta.skyupprajakta&"  />
 </div>
 
 ###
