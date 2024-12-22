@@ -39,7 +39,10 @@
 </div>
 
 
-<p align="left">Selenium: Automating web interactions and browser testing. 🌐<br>Java: Writing robust and scalable test scripts. ☕<br>Postman: API testing and validation. 🔧<br>Jira: Issue tracking and project management in Agile environments. 📋<br>TestNG: Organizing and executing tests with powerful configurations. ⚙️<br>Jenkins: Automating CI/CD pipelines for seamless integration. 🔄<br>Karate: API and BDD-driven testing. 🥋<br>SQL: Validating databases with complex queries. 🗄️<br>GitHub: Version control and collaboration on test scripts. 🔒<br>🏦 Banking & Payments Experience:<br>I have hands-on experience in automating and testing critical systems in the banking and payments sector. I have worked with renowned organizations such as CITY and Western Union, automating workflows and ensuring seamless transactions. 💳</p>
+<p align="left">Selenium: Automating web interactions and browser testing. 🌐<br>Java: Writing robust and scalable test scripts. ☕<br>Postman: API testing and validation. 🔧<br>Jira: Issue tracking and project management in Agile environments. 📋<br>TestNG: Organizing and executing tests with powerful configurations. ⚙️<br>Jenkins: Automating CI/CD pipelines for seamless integration. 🔄<br>Karate: API and BDD-driven testing. 🥋<br>SQL: Validating databases with complex queries. 🗄️<br>GitHub: Version control and collaboration on test scripts. 🔒<br>
+<img height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*qTTe7-BftCKF5U8oWLHQRg.jpeg" align="right" alt=""/>
+  
+🏦 Banking & Payments Experience:<br>I have hands-on experience in automating and testing critical systems in the banking and payments sector. I have worked with renowned organizations such as CITY and Western Union, automating workflows and ensuring seamless transactions. 💳</p>
 
 ###
 
@@ -53,15 +56,10 @@
 
 <div align="left">
   <img height="200" src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif"  />
+    <img height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*ut9XRnJGJB8glIHDsB8Tzw.gif" align="right" />
 </div>
 
-###
 
-<div align="right">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*ut9XRnJGJB8glIHDsB8Tzw.gif"  />
-</div>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
